@@ -10,7 +10,7 @@
 - 💻 Flutter Developer with strong BLoC + Clean Architecture principles
 - 🧠 Currently working on a face recognition attendance system using **Python**, **OpenCV**, and **Flask**
 - ☁️ Experienced with Firebase, MySQL, and integrating REST APIs
-- 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmadfajaralfaravi)
+- 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-fajar-alfaravi/)
 
 ---
 
@@ -26,32 +26,17 @@
 
 ## 🧰 Tech Stack & Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
-
----
-
-## 💼 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Absensi Wajah](https://github.com/ahmadfajaralfaravi/face-attendance) | Web-based face recognition attendance with OpenCV + Flask | Python, OpenCV, Flask |
-| [Portofolio App](https://github.com/ahmadfajaralfaravi/portofolio-flutter) | Personal portfolio app with Flutter BLoC and JSON API | Flutter, BLoC, JSON |
-| [UMSU KRS App](https://github.com/ahmadfajaralfaravi/krs-umsu-app) | Integrated academic KRS app with Firebase | Flutter, Firebase |
 
 ---
 
 ## 📈 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadDev02&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadDev02&layout=compact&theme=tokyonight" height="160"/>
 </p>
