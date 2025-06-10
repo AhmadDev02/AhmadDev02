@@ -14,21 +14,11 @@
 
 ---
 
-## 📜 Certifications & Programs
-
-<p>
-  <img src="https://img.shields.io/badge/Bangkit%202022-%F0%9F%93%96-blue?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/Kampus%20Merdeka-Program-blue?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-%23181717?style=flat-square&logo=github-actions" />
-</p>
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,flutter,github,js" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,flutter,github,js,mysql" />
   </a>
 </p>
 
