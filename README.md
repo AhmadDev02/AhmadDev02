@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,flutter,github,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=figma,firebase,flutter,github,js,mysql" />
   </a>
 </p>
 
