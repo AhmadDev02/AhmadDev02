@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ahmad+Fajar+Alfaravi;Flutter+%7C+Python+%7C+Web+Developer;Welcome+to+my+GitHub+profile!+👨‍💻" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/1b/3c/58/1b3c5821c4ef798f196b30cc3eb46ac2.gif" alt="Banner GIF" width="100%" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 - 🎓 Information System graduate from **University of Muhammadiyah North Sumatra**
 - 💻 Flutter Developer with strong BLoC + Clean Architecture principles
 - 🧠 Currently working on a face recognition attendance system using **Python**, **OpenCV**, and **Flask**
-- ☁️ Experienced with Firebase, MySQL, and integrating REST APIs
+- ☁️ Experienced with Flutter, Firebase, MySQL, and integrating REST APIs
 - 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-fajar-alfaravi/)
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,flutter,github,js" />
   </a>
 </p>
 
